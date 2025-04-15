@@ -13,7 +13,8 @@
 
 ---
 
-![alt text](Processing_videos/LB3_Mouse4_demonstration.gif)
+**2 из 10 видео для обработки**
+![alt text](Processing_videos/LB3_Mouse4_demonstration.gif) ![alt text](Processing_videos/LB3_Mouse8_demonstration.gif)
 
 ### Описание работы программы для трекинга мыши на видео  
 
@@ -57,9 +58,11 @@
 
 &ensp; Работу алгоритма можно видеть на следующих GIF-анимациях. На первой показана обработка 4 видео, на втором - 8.
 
-![alt text](Result/Mask_videos/LB3_Mouse_mask1.gif) ![alt text](Result/Mask_videos/LB3_Mouse_mask1.gif)
+![alt text](Result/Result_tracking_videos/LB3_Mouse_mask4.gif) ![alt text](Result/Result_mask_videos/LB3_Mouse_mask4.gif)
 
-![alt text](Result/Mask_videos/LB3_Mouse_mask1.gif) ![alt text](Result/Mask_videos/LB3_Mouse_mask1.gif)
+![alt text](Result/Result_tracking_videos/LB3_Mouse_mask8.gif) ![alt text](Result/Result_mask_videos/LB3_Mouse_mask8.gif)
+
+&ensp; Остальные обработанные видео и их маску можно просмотреть в папках `Result_tracking_videos` и `Result_mask_videos` соответственно.
 
 ## Заключение 
 
