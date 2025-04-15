@@ -58,9 +58,9 @@
 
 &ensp; Работу алгоритма можно видеть на следующих GIF-анимациях. На первой показана обработка 4 видео, на втором - 8.
 
-![alt text](Result/Result_tracking_videos/LB3_Mouse_mask4.gif) ![alt text](Result/Result_mask_videos/LB3_Mouse_mask4.gif)
+![alt text](/Result_tracking_videos/LB3_Mouse_tracking4.gif) ![alt text](Result_mask_videos/LB3_Mouse_mask4.gif)
 
-![alt text](Result/Result_tracking_videos/LB3_Mouse_mask8.gif) ![alt text](Result/Result_mask_videos/LB3_Mouse_mask8.gif)
+![alt text](Result_tracking_videos/LB3_Mouse_tracking8.gif) ![alt text](Result_mask_videos/LB3_Mouse_mask8.gif)
 
 &ensp; Остальные обработанные видео и их маску можно просмотреть в папках `Result_tracking_videos` и `Result_mask_videos` соответственно.
 
