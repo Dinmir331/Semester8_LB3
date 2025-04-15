@@ -13,7 +13,7 @@
 
 ---
 
-**2 из 10 видео для обработки**
+**2 из 10 видео для обработки (в точности 4 и 8 по счету)**
 ![alt text](Processing_videos/LB3_Mouse4_demonstration.gif) ![alt text](Processing_videos/LB3_Mouse8_demonstration.gif)
 
 ### Описание работы программы для трекинга мыши на видео  
