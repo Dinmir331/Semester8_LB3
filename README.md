@@ -13,7 +13,7 @@
 
 ---
 
-![alt text](Result_Mask_videos/LB3_Mouse_mask1.gif)
+![alt text](Processing_videos/LB3_Mouse4_demonstration.gif)
 
 ### Описание работы программы для трекинга мыши на видео  
 
